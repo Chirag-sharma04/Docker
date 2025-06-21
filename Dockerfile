@@ -1,8 +1,8 @@
 FROM node
 
 # Set environment variables
-ENV MONGO_DB_USERNAME=admin \
-    MONGO_DB_PWD=qwerty
+ENV MONGO_DB_USERNAME=<USERNAME> \
+    MONGO_DB_PWD=<PASSWORD>
 
 # Create app directory
 RUN mkdir -p /testapp
