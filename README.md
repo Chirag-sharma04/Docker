@@ -1,6 +1,6 @@
 # Docker
 
-> A collection of Docker examples and tutorials
+A collection of Docker examples and tutorials
 
 ## 🚀 Overview
 
